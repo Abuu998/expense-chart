@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Abuu998/expense-chart]
+- Solution URL: https://github.com/Abuu998/expense-chart
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
